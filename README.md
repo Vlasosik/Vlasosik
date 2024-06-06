@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasosik&label=Profile%20views&color=0e75b6&style=flat" alt="vlasosik" /> </p>
 
-- 🔭 I’m currently working on **Online Shop**
+- 👨‍💻 I’m currently working on **Online Shop**
 
 - 🌱 I`m deeply studying the following **Java, Spring Boot, Hibernate**
 
 - 👯 I`m collaborated on the project [Url Shortener](https://github.com/nastiausenko/URLSimplifier)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vlasosik/](https://github.com/Vlasosik)
 
 - 📫 How to reach me **vlastyslav.pototskyi@gmail.com**
 
