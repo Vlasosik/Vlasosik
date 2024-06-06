@@ -9,7 +9,7 @@
 
 - 👯 I`m collaborated on the project [Url Shortener](https://github.com/nastiausenko/URLSimplifier)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vlasosik/](https://github.com/Vlasosik/)
+- 👨‍💻 All of my projects are available at [https://github.com/Vlasosik/](https://github.com/Vlasosik)
 
 - 📫 How to reach me **vlastyslav.pototskyi@gmail.com**
 
