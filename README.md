@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Vlas Pototskyi</h1>
-<h3 align="center">A passionate Java Developer from Ukraine</h3>
+<h3 align="center">A passionate С++ Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasosik&label=Profile%20views&color=0e75b6&style=flat" alt="vlasosik" /> </p>
 
