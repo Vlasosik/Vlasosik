@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Telegram Bot**
 
-- 🌱 I`m deeply studying the following **C++, Java, Spring Boot, Hibernate**
+- 🌱 I`m deeply studying the following **C++, Java**
 
 - 👯 I`m collaborated on the project [Url Shortener](https://github.com/nastiausenko/URLSimplifier)
 
