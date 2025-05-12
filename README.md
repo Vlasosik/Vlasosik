@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasosik&label=Profile%20views&color=0e75b6&style=flat" alt="vlasosik" /> </p>
 
-- 🔭 I’m currently working on **Cargo Routing System**
+- 🔭 I’m currently working on **[Strawberry AI](https://strawberry.ai/)**
 
 - 🌱 I`m deeply studying the following **C++, Java**
 
