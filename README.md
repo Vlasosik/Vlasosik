@@ -6,23 +6,30 @@
   <img src="https://img.shields.io/badge/Specialization-Systems%20Programming%20%26%20Security%20%26%20Backend-brightgreen" alt="specialization" />
 </p>
 
+---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[Strawberry AI](https://strawberry.ai/)**
-- 🦾 I`m working with **C++** for speed and performance optimization
-- 🦀 I'm using **Rust** for systems-level programming, memory safety, concurrency and performance-critical applications
-- ⚡ Passionate about **algorithms**, **data structures**, and **competitive programming**
-- 🧠 Love solving complex problems with **graph algorithms**, **dynamic programming**, and **optimization techniques**
-- 👯 I`m collaborated on the project [Url Shortener](https://github.com/nastiausenko/URLSimplifier)
-- 👨‍💻 All of my projects are available at [https://github.com/Vlasosik/](https://github.com/Vlasosik/)
-- 📫 How to reach me **vlastyslav.pototskyi@gmail.com**
+🔭 I'm currently working on **[Strawberry AI](https://strawberry.ai/)**
+
+🦾 I`m working with **C++** for speed and performance optimization
+
+🦀 I'm using **Rust** for systems-level programming, memory safety, concurrency and performance-critical applications
+
+⚡ Passionate about **algorithms**, **data structures**, and **competitive programming**
+
+🧠 Love solving complex problems with **graph algorithms**, **dynamic programming**, and **optimization techniques**
+
+👯 I`m collaborated on the project [Url Shortener](https://github.com/nastiausenko/URLSimplifier)
+
+👨‍💻 All of my projects are available at [https://github.com/Vlasosik/](https://github.com/Vlasosik/)
+
+📫 How to reach me **vlastyslav.pototskyi@gmail.com**
 
 ---
 
 ### 🛠️ Languages and Tools
 
-#### **Core Languages**
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
@@ -33,10 +40,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   </a>
-</p>
-
-#### **Development Tools & Technologies**
-<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -52,10 +55,6 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
-</p>
-
-#### **Databases & Backend**
-<p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
