@@ -72,7 +72,7 @@
   </a>
 </p>
 
-### 🔥 Performance Metrics
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vlasosik&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="vlasosik" />
