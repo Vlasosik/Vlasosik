@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Vlas Pototskyi</h1>
-<h3 align="center">A passionate C/C++ & Rust Developer</h3>
+<h3 align="center">A passionate C/C++ Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vlasosik&label=Profile%20views&color=0e75b6&style=flat" alt="vlasosik" />
@@ -12,9 +12,7 @@
 
 🔭 I'm currently working on **[Strawberry AI](https://strawberry.ai/)**
 
-🦾 I`m working with **C++** for speed and performance optimization
-
-🦀 I'm using **Rust** for systems-level programming, memory safety, concurrency and performance-critical applications
+🦾 I`m working with **C++** for speed and performance optimization, systems-level programming, memory safety, concurrency and performance-critical applications
 
 ⚡ Passionate about **algorithms**, **data structures**, and **competitive programming**
 
