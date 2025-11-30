@@ -90,17 +90,17 @@
 <p align="center">
   <a href="https://linkedin.com/in/vlastyslav-pototskyi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vlastyslav-pototskyi" height="35" width="45" />
-  </a>
-  <a href="https://stackoverflow.com/users/22697073/vlasosik" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22697073/vlasosik" height="35" width="45" />
-  </a>
   <a href="https://leetcode.com/u/r3qp1o/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r3qp1o" height="35" width="45" />
   </a>
   <a href="https://instagram.com/vlas.pototskyi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlas.pototskyi" height="35" width="45" />
   </a>
-  <a href="https://discord.gg/431467174305988629" target="blank">
+  <a href="https://stackoverflow.com/users/22697073/vlasosik" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22697073/vlasosik" height="35" width="45" />
+  </a>
+  </a>
+ <a href="https://discord.gg/431467174305988629" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="431467174305988629" height="35" width="45" />
   </a>
 </p>
